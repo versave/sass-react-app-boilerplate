@@ -1,1 +1,0 @@
-export const proxy = (route) => `http://localhost:5000${route}`;

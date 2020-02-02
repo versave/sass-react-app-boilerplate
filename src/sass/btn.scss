@@ -11,10 +11,6 @@ button {
     text-decoration: none;
     transition: .3s;
 
-    @include breakpoint-mobile {
-        font-size: 12px;
-    }
-
     &:hover {
         background: #5c6959;
     }
